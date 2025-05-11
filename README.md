@@ -1,53 +1,59 @@
-StoreIt - A Google Drive Clone
-Technologies Used
-Frontend:
+# **StoreIt - A Google Drive Clone**
 
-React.js
+StoreIt is a cloud storage application that mimics the functionalities of Google Drive. It allows users to store, manage, and organize files efficiently with a sleek, modern interface.
 
-Next.js
+---
 
-TypeScript
+## **Technologies Used**
 
-Tailwind CSS (or any other styling framework you used)
+### **Frontend:**
+- **React.js**
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS** (or any other styling framework you used)
 
-Backend:
+### **Backend:**
+- **Appwrite** (for authentication, database, and storage management)
 
-Appwrite (for authentication, database, and storage management)
+### **Authentication:**
+- **OTP-based Sign-In** (sent to the user's email for secure authentication)
 
-Authentication:
+### **Deployment:**
+- **Frontend Hosting:** Vercel
+- **Backend Hosting:** Appwrite Cloud or self-hosted Appwrite server
 
-OTP-based sign-in (sent to the user's email)
+---
 
-Deployment:
+## **Features**
 
-Vercel (for hosting the frontend)
+### **1. OTP-based Sign-In**
+- **Users can securely sign in** by receiving an OTP sent to their email.
 
-Appwrite Cloud or self-hosted Appwrite server
+### **2. File Management**
+- **Upload, Download, and Manage Files:** Easily upload and download files to/from the cloud.
+- **Categorized Files:** Files are categorized into:
+  - **Documents**
+  - **Images**
+  - **Media**
+  - **Others**
 
-Features
-OTP-based Sign-In:
+### **3. File Previews**
+- **Preview supported file types**, such as images and documents.
 
-Users sign in via OTP sent to their email for secure authentication.
+### **4. Responsive Interface**
+- The app is fully **optimized for both desktop and mobile devices**, providing a smooth user experience across platforms.
 
-File Management:
+### **5. Folder Organization**
+- **Create, Delete, and Organize Files**: Users can organize their files by creating, deleting, and arranging folders.
 
-Upload, download, and manage files.
+### **6. Search Functionality**
+- **Easy File Search**: Quickly search for files by category and name to access them faster.
 
-Categorized files: Documents, Images, Media, and Others.
+---
 
-File Previews:
+## **Screenshots**
 
-Previews for supported file types (e.g., images, documents).
+Add relevant screenshots of the application below:
 
-Responsive Interface:
-
-Optimized for both desktop and mobile devices.
-
-Folder Organization:
-
-Create, delete, and organize files within folders.
-
-Search Functionality:
-
-Easy search through stored files by category and name.
-
+```markdown
+![StoreIt Screenshot](assets/storeit-screenshot.png)
