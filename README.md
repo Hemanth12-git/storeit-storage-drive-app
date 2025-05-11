@@ -24,6 +24,17 @@ StoreIt is a cloud storage application that mimics the functionalities of Google
 
 ---
 
+## **Glimpses**
+
+### **1. App Login Screen**
+(public/assets/Login.png)
+
+### **2. App Home Screen**
+(public/assets/Home.png)
+
+### **3. SubPages Screen**
+(public/assets/Subpage.png)
+
 ## **Features**
 
 ### **1. OTP-based Sign-In**
