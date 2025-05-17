@@ -63,9 +63,3 @@ StoreIt is a cloud storage application that mimics the functionalities of Google
 
 ---
 
-## **Screenshots**
-
-Add relevant screenshots of the application below:
-
-```markdown
-![StoreIt Screenshot](assets/storeit-screenshot.png)
